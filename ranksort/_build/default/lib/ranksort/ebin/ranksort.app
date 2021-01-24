@@ -1,0 +1,8 @@
+{application,ranksort,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{ranksort,[]}},
+              {env,[]},
+              {modules,[ranksort]}]}.
